@@ -35,7 +35,7 @@ Kaggle Dataset: Dogs vs. Cats
 
 ## How to Run
 1. Clone this repository:
- git clone https://github.com/SpringPixels/Dogs-vs-Cats-TransferLearning.git
+ git clone https://github.com/SpringPixels/PawNet-Classifier.git
  cd Dogs-vs-Cats-TransferLearning
  
 2. Install required libraries:
